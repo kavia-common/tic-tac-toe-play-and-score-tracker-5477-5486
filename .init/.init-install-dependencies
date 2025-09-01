@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-play-and-score-tracker-5477-5486/tic_tac_toe_frontend"
+}
